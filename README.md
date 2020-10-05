@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![github stats](https://github-readme-stats.vercel.app/api?username=sksms17456&show_icons=true)
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sksms17456.github.io/)](https://sksms17456.github.io/)
+	
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC-J0CCwYpjfoBxmvcuBGz_w?view_as=subscriber)](https://www.youtube.com/channel/UC-J0CCwYpjfoBxmvcuBGz_w?view_as=subscriber)
+	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sksms17456@gmail.com)](mailto:sksms17456@gmail.com)
